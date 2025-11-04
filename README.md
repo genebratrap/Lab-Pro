@@ -26,7 +26,7 @@ Follow these steps:
 git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd <LAB_PRO>
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -63,11 +63,6 @@ This project is built with:
 
 Simply open [Lovable](https://lovable.dev/projects/cde77d84-8df4-488f-817a-26ab56a2db38) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
 
